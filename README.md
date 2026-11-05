@@ -52,12 +52,30 @@ Tabulation for Open Circuit Test
 Tabulation for Load Test:
 
 Model graph:
+
+1.Load characteristics of DC shunt Generator
+
+
+<img width="617" height="247" alt="Screenshot 2026-11-05 110040" src="https://github.com/user-attachments/assets/5d4ed370-5d55-4f53-bb21-658839519cfa" />
+
+2.Magnetisation characteristics of DC shunt Generator
+
+<img width="1688" height="600" alt="Screenshot 2026-10-31 134759" src="https://github.com/user-attachments/assets/b7cd833d-fbc5-437a-9f10-2dcae2f833e0" />
+
+
+
 Calculation: 
 
-Open circuit characteristics
+Open circuit characteristics:
+
+<img width="1447" height="746" alt="Screenshot 2026-10-31 135224" src="https://github.com/user-attachments/assets/9a82600e-4750-415b-b89e-fb4e1ab27380" />
+
 
   
 Load Characteristics:
+
+<img width="1826" height="830" alt="Screenshot 2026-10-31 134712" src="https://github.com/user-attachments/assets/c19a8fbc-16e4-446a-81ba-d1729d727349" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
