@@ -47,16 +47,21 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+<img width="960" height="1280" alt="load table" src="https://github.com/user-attachments/assets/5d7bd730-165a-43a5-8bcb-474744ffb9f2" />
+
 
 Tabulation for Load Test:
+<img width="960" height="1280" alt="open table" src="https://github.com/user-attachments/assets/8b72cc22-3a61-480f-87d8-6b6c83431977" />
 
 Model graph:
 
 1.Load characteristics of DC shunt Generator
 
+<img width="617" height="247" alt="Screenshot 2026-11-05 110040" src="https://github.com/user-attachments/assets/b5b974d3-6a01-4229-9a48-77890afab134" />
 
-<img width="617" height="247" alt="Screenshot 2026-11-05 110040" src="https://github.com/user-attachments/assets/5d4ed370-5d55-4f53-bb21-658839519cfa" />
+>
+
 
 2.Magnetisation characteristics of DC shunt Generator
 
@@ -64,11 +69,11 @@ Model graph:
 
 
 
-Calculation: 
+
 
 Open circuit characteristics:
 
-<img width="1447" height="746" alt="Screenshot 2026-10-31 135224" src="https://github.com/user-attachments/assets/9a82600e-4750-415b-b89e-fb4e1ab27380" />
+<img width="1024" height="818" alt="Screenshot 2026-11-06 085624" src="https://github.com/user-attachments/assets/c562cc24-4fc2-48b0-981b-24cbaf2df27f" />
 
 
   
